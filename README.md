@@ -5,6 +5,14 @@ While more basic, it is similar in nature: match three or more characters, recei
 
 ![image](https://github.com/Joyaburke/candy-crush/assets/130799658/bbcb8281-88da-4d2a-9006-06faa1a7073c)
 
+## My Contribution and What I Learned
+
+Matching anything is incredibly satisfying to me, so this was another game I naturally wanted to try to make. Again, with the assitance of a tutorial I made the game start to finish. However, this time I tried to write down what I thought the steps would be first. When it went a different direction, I paused the video and tried to recalibrate my thinking and take another stab at it. While I was gaining confidence in my skills, I still needed some direction on what to build and I love games so I went this route. As noted in another project, I found coming up with something out of thin air was difficult after gleaning so much from classes. This was a fun way to implement what I'd learned and see positive results! 
+
+The key takeaways for me with this project:
+- There's always another way to do something - it's important to keep your mind open to possibilities
+- Understanding the way this game operates is going to be helpful in working on more complex projects in the future. While this is in context of a game, the code can be utilized in other ways like business!
+- There's always going to be a lot to learn
 
 # React + Vite
 
